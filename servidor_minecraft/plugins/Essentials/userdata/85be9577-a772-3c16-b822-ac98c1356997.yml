@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.232.163.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1773946783357
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1773951933428
+  login: 1773948482318
+money: '0'
+last-account-name: creisipapu
+lastlocation:
+  world: 9cdf1fbe-2fdc-42d9-ac6a-f538de3fb07f
+  world-name: world
+  x: 78.97545001260609
+  y: -54.15959842862979
+  z: -71.18140142453339
+  yaw: -118.0625
+  pitch: -74.40030670166016
+logoutlocation:
+  world: 9cdf1fbe-2fdc-42d9-ac6a-f538de3fb07f
+  world-name: world
+  x: 1.1809235281037858
+  y: 14.0
+  z: -47.04070717522761
+  yaw: 171.9541015625
+  pitch: 11.549646377563477

@@ -1,0 +1,89 @@
+texture: b03f5a9bc719cd1127be0954c73cd5714ecd478dad880ef2b9979c481097e6be
+name: '&aLime LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : VINDICATOR : 1'
+  - 'ENTITY : ARROW : 1'
+  - 'ITEM : STRIPPED_BAMBOO_BLOCK : 8 : 0'
+  '1':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '2':
+  - 'ENTITY : SNIFFER : 1'
+  - 'ITEM : MANGROVE_PRESSURE_PLATE : 64 : 0'
+  '3':
+  - 'ITEM : RAW_GOLD_BLOCK : 16 : 0'
+  - 'ITEM : PIG_SPAWN_EGG : 12 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '4':
+  - 'ITEM : TUFF_SLAB : 32 : 0'
+  '5':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : CYAN_WOOL : 64 : 0'
+  '6':
+  - 'ENTITY : GLOW_SQUID : 1'
+  - 'ITEM : COAL_BLOCK : 8 : 0'
+  '7':
+  - 'ENTITY : WITHER : 2'
+  '8':
+  - 'ITEM : STRIPPED_BIRCH_LOG : 32 : 0'
+  - 'ENTITY : SHULKER_BULLET : 3'
+  '9':
+  - 'ITEM : HORSE_SPAWN_EGG : 45 : 0'
+  '10':
+  - 'ITEM : ENCHANTED_BOOK : 1 : 0'
+  - 'ITEM : BAMBOO_BUTTON : 8 : 0'
+  '11':
+  - 'ITEM : CYAN_TERRACOTTA : 64 : 0'
+  - 'ITEM : ZOMBIE_SPAWN_EGG : 34 : 0'
+  '12':
+  - 'ENTITY : ENDER_PEARL : 4'
+  - 'LUCKY_BLOCK_ITEM : ICED : 2'
+  '13':
+  - 'ITEM : LOOM : 16 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '14':
+  - 'ENTITY : ITEM_FRAME : 4'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '15':
+  - 'ITEM : STRIPPED_SPRUCE_WOOD : 8 : 0'
+  - 'ITEM : GREEN_SHULKER_BOX : 1 : 0'
+  - 'ITEM : NETHER_STAR : 29 : 0'
+  '16':
+  - 'ITEM : CHIPPED_ANVIL : 32 : 0'
+  - 'SPECIAL : PIG : 4'
+  - 'ITEM : RED_NETHER_BRICKS : 8 : 0'
+  '17':
+  - 'ITEM : RAW_COPPER : 27 : 0'
+  - 'ENTITY : PARROT : 1'
+  '18':
+  - 'ITEM : LILY_OF_THE_VALLEY : 16 : 0'
+  '19':
+  - 'ITEM : QUARTZ_BRICKS : 32 : 0'
+  '20':
+  - 'ITEM : WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE : 7 : 0'
+  - 'ENTITY : RAVAGER : 2'
+  - 'ENTITY : MULE : 1'
+  '21':
+  - 'ENTITY : OCELOT : 4'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '22':
+  - 'ITEM : RED_NETHER_BRICK_WALL : 64 : 0'
+  - 'ITEM : ACACIA_DOOR : 64 : 0'
+  '23':
+  - 'ENTITY : PIG : 4'
+  '24':
+  - 'ITEM : RED_CONCRETE : 32 : 0'
+  - 'ENTITY : THROWN_EXP_BOTTLE : 2'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '25':
+  - 'ITEM : BEETROOT_SOUP : 1 : 0'
+eco: true

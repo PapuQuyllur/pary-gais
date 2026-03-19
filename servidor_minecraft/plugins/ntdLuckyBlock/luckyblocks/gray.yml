@@ -1,0 +1,127 @@
+texture: f171a0c0572824da80366d71c5413a7e3355abec79b8f529f1dc9dad2632f485
+name: '&8Gray LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : SPRUCE_TRAPDOOR : 64 : 0'
+  - 'ENTITY : EVOKER : 4'
+  - 'ITEM : PHANTOM_MEMBRANE : 27 : 0'
+  '1':
+  - 'ITEM : FEATHER : 38 : 0'
+  - 'ITEM : BUCKET : 10 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ENTITY : BLAZE : 2'
+  '2':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : STONE_BRICKS : 8 : 0'
+  - 'ITEM : CHERRY_FENCE_GATE : 32 : 0'
+  - 'ITEM : VILLAGER_SPAWN_EGG : 29 : 0'
+  '3':
+  - 'ENTITY : ENDERMAN : 2'
+  - 'ENTITY : ILLUSIONER : 3'
+  '4':
+  - 'ITEM : DROPPER : 16 : 0'
+  - 'ITEM : CYAN_CARPET : 8 : 0'
+  - 'ENTITY : WITHER_SKELETON : 2'
+  - 'ITEM : PUFFERFISH_BUCKET : 1 : 0'
+  '5':
+  - 'ITEM : MANGROVE_WOOD : 64 : 0'
+  '6':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : WITHER_SKELETON : 3'
+  '7':
+  - 'ITEM : POLISHED_BLACKSTONE_BRICK_SLAB : 16 : 0'
+  - 'ENTITY : ALLAY : 3'
+  '8':
+  - 'ITEM : COPPER_ORE : 8 : 0'
+  - 'ENTITY : SPIDER : 3'
+  - 'ENTITY : HORSE : 1'
+  '9':
+  - 'ITEM : SALMON_BUCKET : 1 : 0'
+  '10':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 2'
+  - 'ITEM : ORANGE_TERRACOTTA : 16 : 0'
+  '11':
+  - 'ENTITY : WANDERING_TRADER : 2'
+  - 'ENTITY : PHANTOM : 3'
+  '12':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : MAGMA_BLOCK : 8 : 0'
+  - 'ITEM : PUMPKIN_SEEDS : 3 : 0'
+  '13':
+  - 'ENTITY : PILLAGER : 2'
+  - 'ITEM : FLOWER_POT : 16 : 0'
+  - 'SPECIAL : PIG : 9'
+  '14':
+  - 'LUCKY_BLOCK_ITEM : RED : 4'
+  '15':
+  - 'ITEM : PETRIFIED_OAK_SLAB : 32 : 0'
+  '16':
+  - 'ENTITY : WITCH : 2'
+  - 'ITEM : GHAST_SPAWN_EGG : 7 : 0'
+  - 'ENTITY : LEASH_HITCH : 2'
+  '17':
+  - 'ITEM : DETECTOR_RAIL : 64 : 0'
+  '18':
+  - 'ENTITY : WANDERING_TRADER : 2'
+  - 'ENTITY : SKELETON_HORSE : 4'
+  '19':
+  - 'LUCKY_BLOCK_ITEM : PINK : 3'
+  - 'ENTITY : ENDER_PEARL : 1'
+  - 'ITEM : SHROOMLIGHT : 8 : 0'
+  '20':
+  - 'ITEM : TUFF_BRICK_WALL : 8 : 0'
+  - 'ITEM : MOSSY_COBBLESTONE_SLAB : 16 : 0'
+  - 'ITEM : SILVERFISH_SPAWN_EGG : 44 : 0'
+  '21':
+  - 'ITEM : PRISMARINE_WALL : 64 : 0'
+  - 'ENTITY : CAT : 2'
+  - 'ENTITY : MINECART_HOPPER : 1'
+  '22':
+  - 'ITEM : COOKED_MUTTON : 9 : 0'
+  - 'ITEM : BLUE_CONCRETE_POWDER : 32 : 0'
+  '23':
+  - 'ENTITY : BLAZE : 1'
+  '24':
+  - 'ENTITY : SMALL_FIREBALL : 3'
+  - 'ENTITY : SPIDER : 3'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '25':
+  - 'ITEM : COOKED_CHICKEN : 6 : 0'
+  - 'ENTITY : GUARDIAN : 1'
+  - 'ENTITY : CREEPER : 2'
+  - 'ENTITY : PANDA : 4'
+  '26':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 2'
+  '27':
+  - 'ITEM : WHITE_CONCRETE : 8 : 0'
+  - 'ITEM : POTATO : 61 : 0'
+  '28':
+  - 'ITEM : WHEAT : 64 : 0'
+  - 'ENTITY : ENDERMAN : 2'
+  '29':
+  - 'ITEM : CRIMSON_FENCE : 32 : 0'
+  - 'ITEM : PURPLE_TERRACOTTA : 64 : 0'
+  '30':
+  - 'ITEM : STRIPPED_CRIMSON_HYPHAE : 64 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ENTITY : MAGMA_CUBE : 4'
+  '31':
+  - 'ENTITY : ZOMBIFIED_PIGLIN : 3'
+  - 'ITEM : LARGE_FERN : 64 : 0'
+  - 'ITEM : DEEPSLATE_DIAMOND_ORE : 8 : 0'
+  '32':
+  - 'ITEM : PRISMARINE_BRICKS : 8 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '33':
+  - 'ITEM : ACACIA_SAPLING : 16 : 0'
+  - 'ITEM : CHAINMAIL_LEGGINGS : 1 : 0'
+eco: true

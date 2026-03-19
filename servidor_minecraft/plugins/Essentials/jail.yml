@@ -1,0 +1,17 @@
+jails:
+  c:
+    world: 9cdf1fbe-2fdc-42d9-ac6a-f538de3fb07f
+    world-name: world
+    x: 0.5129352138450768
+    y: 1.0
+    z: 0.6202194522329583
+    yaw: 106.38330078125
+    pitch: 37.1993293762207
+  creisipapu:
+    world: 9cdf1fbe-2fdc-42d9-ac6a-f538de3fb07f
+    world-name: world
+    x: 0.5129352138450768
+    y: 1.0
+    z: 0.6202194522329583
+    yaw: 106.38330078125
+    pitch: 37.1993293762207

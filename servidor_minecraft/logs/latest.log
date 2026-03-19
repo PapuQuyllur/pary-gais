@@ -1,0 +1,400 @@
+[19:26:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:26:42] [ServerMain/INFO]: Loaded 1174 recipes
+[19:26:42] [ServerMain/INFO]: Loaded 1271 advancements
+[19:26:43] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:26:43] [Server thread/INFO]: Loading properties
+[19:26:43] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[19:26:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:26:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:26:46] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:26:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:26:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:26:46] [Server thread/INFO]: Generating keypair
+[19:26:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:26:46] [Server thread/INFO]: Using epoll channel type
+[19:26:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:26:47] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[19:26:47] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
+[19:26:49] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3afa9d0c]
+[19:26:49] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.12.2
+[19:26:49] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.38
+[19:26:50] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:26:50] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[19:26:50] [Server thread/INFO]: [BlueArcade] Loading server plugin BlueArcade v1.6.1
+[19:26:50] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+74-d7452bf
+[19:26:50] [Server thread/INFO]: [ntdLuckyBlock] Loading server plugin ntdLuckyBlock v2.8.33
+[19:26:50] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.9
+[19:26:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:26:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
+[19:26:50] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:26:50] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:26:51] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[19:26:53] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.38
+[19:26:54] [Server thread/INFO]:         __    
+[19:26:54] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.38
+[19:26:54] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:26:54] [Server thread/INFO]: 
+[19:26:54] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:26:55] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:26:55] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:26:55] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2094ms)
+[19:26:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:26:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:26:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:26:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:26:55] [Server thread/INFO]: Preparing level "world"
+[19:26:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:26:57] [Server thread/INFO]: Time elapsed: 337 ms
+[19:26:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:26:58] [Server thread/INFO]: Time elapsed: 250 ms
+[19:26:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:26:58] [Server thread/INFO]: Time elapsed: 39 ms
+[19:26:58] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.12.2
+[19:26:58] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[19:26:58] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[19:26:59] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[19:26:59] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[19:26:59] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[19:26:59] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[19:27:00] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[19:27:00] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[19:27:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[19:27:00] [Server thread/INFO]: [WorldGuard] Loading region data...
+[19:27:00] [Server thread/INFO]: [BlueArcade] Enabling BlueArcade v1.6.1
+[19:27:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bluearcade [1.6.1]
+[19:27:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+74-d7452bf
+[19:27:01] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[19:27:02] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[19:27:02] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[19:27:02] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[19:27:03] [Server thread/INFO]: [Essentials] Loaded 46309 items from items.json.
+[19:27:03] [Server thread/INFO]: [Essentials] Using locale en
+[19:27:03] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:27:03] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[19:27:03] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[19:27:03] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[19:27:03] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Enabling ntdLuckyBlock v2.8.33
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Starting LuckyBlock (ntdLuckyBlock) v2.8.33, build138(20/12/2025), free
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]   ╭╮╱╱╭╮╱╭┳━━━┳╮╭━┳╮╱╱╭┳━━╮╭╮╱╱╭━━━┳━━━┳╮╭━╮
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╱┃┃╱┃┃╭━╮┃┃┃╭┫╰╮╭╯┃╭╮┃┃┃╱╱┃╭━╮┃╭━╮┃┃┃╭╯
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╱┃┃╱┃┃┃╱╰┫╰╯╯╰╮╰╯╭┫╰╯╰┫┃╱╱┃┃╱┃┃┃╱╰┫╰╯╯
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]   ┃┃╱╭┫┃╱┃┃┃╱╭┫╭╮┃╱╰╮╭╯┃╭━╮┃┃╱╭┫┃╱┃┃┃╱╭┫╭╮┃
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]   ┃╰━╯┃╰━╯┃╰━╯┃┃┃╰╮╱┃┃╱┃╰━╯┃╰━╯┃╰━╯┃╰━╯┃┃┃╰╮
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]   ╰━━━┻━━━┻━━━┻╯╰━╯╱╰╯╱╰━━━┻━━━┻━━━┻━━━┻╯╰━╯ NTD
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]           Made with love by DenBeKKer
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] 
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] =-= SUPPORT § BUG REPORTING § FEATURE REQUESTING =-=
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]  > Discord - https://discord.gg/vbYW3sperj
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock]  > Vkontakte - https://vk.com/danirodplay (Rus)
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] =-= SUPPORT § BUG REPORTING § FEATURE REQUESTING =-=
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Loaded main material version
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Loading NMS for your platform (git-Paper-497 (MC: 1.20.4), v1_20_R3)...
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Loading language file "en" by DenBeKKer
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] WorldEdit connected
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] WorldGuard connected
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Vault not found
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] TokenManager not found
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] SlimeFun not found
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Found 2/5 compatible plugins
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Loading system...
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 internal custom items...
+[19:27:03] [Server thread/INFO]: [ntdLuckyBlock] Loaded 11 custom items... (Total)
+[19:27:03] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:27:08] [Server thread/INFO]: [ntdLuckyBlock] Loaded 16 luckyblock types...
+[19:27:08] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:27:08] [Server thread/INFO]: [ntdLuckyBlock] System loaded (took 5328 ms)...
+[19:27:08] [Server thread/INFO]: [ntdLuckyBlock] If you love my plugin, support me with 5 stars review(https://www.spigotmc.org/resources/92026/) or consider to purchase premium plugin version (https://www.spigotmc.org/resources/94872/)
+[19:27:08] [Server thread/INFO]: [ntdLuckyBlock] Enabled (took 5547 ms)... 
+[19:27:08] [Server thread/INFO]: [Images] Enabling Images v2.5.9
+[19:27:08] [Server thread/INFO]: [Images] PaperMC server detected. Adjustments will be made to accommodate...
+[19:27:09] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[19:27:09] [Server thread/INFO]: Running delayed init tasks
+[19:27:09] [Server thread/INFO]:   ____  _               _                      _
+[19:27:09] [Server thread/INFO]:  | __ )| |_   _  ___   / \   _ __ ___ __ _  __| | ___
+[19:27:09] [Server thread/INFO]:  |  _ \| | | | |/ _ \ / _ \ | '__/ __/ _` |/ _` |/ _ \
+[19:27:09] [Server thread/INFO]:  | |_) | | |_| |  __// ___ \| | | (_| (_| | (_| |  __/
+[19:27:09] [Server thread/INFO]:  |____/|_|\____|\___/_/   \_|_|  \___\____|\____|\___|
+[19:27:09] [Server thread/INFO]: 
+[19:27:09] [Server thread/INFO]: V. 1.6.1 | Plugin enabled successfully | blueva.net
+[19:27:09] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[19:27:10] [Server thread/INFO]: [BlueArcade] There is a new plugin update available. 
+[19:27:10] [Server thread/INFO]: [BlueArcade] Your version: 1.6.1, Latest version: 3.0.0
+[19:27:10] [Server thread/INFO]: Done (26.834s)! For help, type "help"
+[19:27:10] [Server thread/INFO]: Timings Reset
+[19:27:10] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[19:27:11] [Craft Scheduler Thread - 3 - Images/INFO]: [Images] Loaded 0 images...
+[19:27:59] [User Authenticator #0/INFO]: UUID of player Dannistar is 9e45bff3-99bb-38ed-9838-af48eb50c6af
+[19:28:00] [User Authenticator #0/INFO]: UUID of player creisipapu is 85be9577-a772-3c16-b822-ac98c1356997
+[19:28:01] [Server thread/INFO]: Dannistar joined the game
+[19:28:01] [Server thread/INFO]: Dannistar[/127.240.252.127:41711] logged in with entity id 30 at ([world]6.377762963675801, 9.163989044568314, -53.38629542341973)
+[19:28:02] [Server thread/INFO]: creisipapu joined the game
+[19:28:02] [Server thread/INFO]: creisipapu[/127.232.163.11:53819] logged in with entity id 31 at ([world]59.30000001192093, 14.0, -40.42254448908583)
+[19:28:19] [Server thread/INFO]: creisipapu issued server command: /ba join
+[19:28:20] [Server thread/INFO]: creisipapu issued server command: /ba join 1
+[19:28:33] [Async Chat Thread - #1/INFO]: [Not Secure] <creisipapu> ./ba join 1
+[19:28:41] [Server thread/INFO]: Dannistar issued server command: /ba join 1
+[19:30:40] [Server thread/INFO]: creisipapu issued server command: /ba leave
+[19:30:49] [Server thread/INFO]: Dannistar issued server command: /leave
+[19:30:57] [Server thread/INFO]: Dannistar issued server command: /gamemode 1
+[19:30:58] [Server thread/INFO]: creisipapu issued server command: /ba reload
+[19:31:00] [Server thread/INFO]: creisipapu issued server command: /ba reload 1
+[19:31:08] [Server thread/INFO]: creisipapu issued server command: /ba leave
+[19:31:13] [Server thread/INFO]: creisipapu issued server command: /gamemode creative
+[19:31:23] [Server thread/INFO]: creisipapu issued server command: /
+[19:31:37] [Server thread/INFO]: creisipapu issued server command: /unmute
+[19:31:45] [Server thread/INFO]: creisipapu issued server command: /chat unmute
+[19:31:50] [Server thread/INFO]: creisipapu issued server command: /ba help admin
+[19:31:56] [Server thread/INFO]: creisipapu issued server command: /ba disable
+[19:32:00] [Server thread/INFO]: creisipapu issued server command: /ba disable 1
+[19:32:06] [Server thread/INFO]: creisipapu issued server command: /ba leave
+[19:32:07] [Server thread/INFO]: creisipapu issued server command: /ba leave 1
+[19:32:24] [Server thread/INFO]: [Not Secure] [Server] 1
+[19:32:49] [Server thread/INFO]: creisipapu issued server command: /time set day
+[19:33:05] [Server thread/INFO]: creisipapu issued server command: /ba delete 1
+[19:33:07] [Server thread/INFO]: creisipapu issued server command: /ba delete spleef
+[19:33:18] [Server thread/INFO]: That command does not exist, check that you have typed it correctly.
+[19:33:27] [Server thread/INFO]: creisipapu issued server command: /ba quickjoin 1
+[19:33:35] [Server thread/INFO]: creisipapu issued server command: /ba quickjoin 1
+[19:34:21] [Server thread/INFO]: creisipapu issued server command: /ba help admin
+[19:34:27] [Server thread/INFO]: creisipapu issued server command: /ba delete 1
+[19:34:30] [Server thread/INFO]: creisipapu issued server command: /ba delete
+[19:34:34] [Server thread/INFO]: creisipapu issued server command: /ba reload
+[19:34:37] [Server thread/INFO]: creisipapu issued server command: /ba reload 1
+[19:34:39] [Server thread/INFO]: creisipapu issued server command: /ba reload 1
+[19:34:40] [Server thread/INFO]: creisipapu issued server command: /ba reload 1
+[19:34:45] [Server thread/INFO]: creisipapu issued server command: /gamemode creative
+[19:34:51] [Server thread/INFO]: creisipapu issued server command: /ba reload 1
+[19:34:52] [Server thread/INFO]: creisipapu issued server command: /ba reload 1
+[19:34:54] [Server thread/INFO]: creisipapu issued server command: /ba reload spleef
+[19:34:58] [Server thread/INFO]: creisipapu issued server command: /ba reload sala
+[19:35:02] [Server thread/INFO]: creisipapu issued server command: /ba reload sala
+[19:35:09] [Server thread/INFO]: creisipapu issued server command: /ba goto 1
+[19:35:11] [Server thread/INFO]: creisipapu issued server command: /ba goto 1 spleef
+[19:35:19] [Server thread/INFO]: creisipapu issued server command: /ba remove 1
+[19:35:23] [Server thread/INFO]: creisipapu issued server command: /ba remove 1 spleef
+[19:35:27] [Server thread/INFO]: creisipapu issued server command: /ba remove spleef
+[19:35:39] [Server thread/INFO]: creisipapu issued server command: /ba quickjoin 1
+[19:35:39] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ba' in plugin BlueArcade v1.6.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServer.java:999) ~[paper-1.20.4.jar:git-Paper-497]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.4.jar:git-Paper-497]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.commands.execution.CommandQueueEntry.a(CommandQueueEntry.java:5) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:434) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:336) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:323) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2230) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$14(ServerGamePacketListenerImpl.java:2190) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1465) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:194) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:123) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1442) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1365) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1343) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1232) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-497]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: location.world
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftPlayer.teleport(CraftPlayer.java:1331) ~[paper-1.20.4.jar:git-Paper-497]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftPlayer.teleport(CraftPlayer.java:1263) ~[paper-1.20.4.jar:git-Paper-497]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftEntity.teleport(CraftEntity.java:226) ~[paper-1.20.4.jar:git-Paper-497]
+	at net.blueva.arcade.managers.PlayerManager.JoinPlayer(PlayerManager.java:55) ~[BlueArcade-1.6.1.jar:?]
+	at net.blueva.arcade.commands.main.subcommands.QuickjoinSubCommand.onCommand(QuickjoinSubCommand.java:51) ~[BlueArcade-1.6.1.jar:?]
+	at net.blueva.arcade.commands.main.CommandHandler.onCommand(CommandHandler.java:67) ~[BlueArcade-1.6.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	... 29 more
+[19:35:46] [Server thread/INFO]: creisipapu issued server command: /ba leave
+[19:35:52] [Server thread/INFO]: creisipapu issued server command: /gamemode creative
+[19:35:54] [Server thread/INFO]: creisipapu issued server command: /plugins
+[19:35:57] [Server thread/INFO]: creisipapu issued server command: /placeholderapi
+[19:36:02] [Server thread/INFO]: creisipapu issued server command: /papi help
+[19:36:21] [Server thread/INFO]: creisipapu issued server command: /papi list
+[19:36:30] [Server thread/INFO]: creisipapu issued server command: /papi register
+[19:36:33] [Server thread/INFO]: creisipapu issued server command: /papi register SERVER
+[19:38:13] [Server thread/INFO]: creisipapu issued server command: //wand
+[19:39:21] [Server thread/INFO]: creisipapu issued server command: //set air
+[19:39:24] [Server thread/INFO]: creisipapu issued server command: //set air
+[19:40:06] [Server thread/INFO]: creisipapu issued server command: //sphere acacia_planks 1
+[19:40:33] [Server thread/INFO]: creisipapu issued server command: //sphere acacia_planks 1
+[19:40:45] [Server thread/INFO]: creisipapu issued server command: //sphere acacia_planks 1
+[19:41:07] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[19:43:15] [Server thread/INFO]: creisipapu issued server command: /time set day
+[19:43:19] [Server thread/INFO]: creisipapu issued server command: /tick freeze
+[19:43:19] [Server thread/INFO]: [creisipapu: The game is frozen]
+[19:44:02] [Server thread/INFO]: creisipapu issued server command: //expand 1
+[19:44:06] [Server thread/INFO]: creisipapu issued server command: //undo
+[19:44:13] [Server thread/INFO]: creisipapu issued server command: //redo
+[19:44:22] [Server thread/INFO]: creisipapu issued server command: //expand 1
+[19:44:44] [Server thread/INFO]: creisipapu issued server command: //undo
+[19:44:46] [Server thread/INFO]: creisipapu issued server command: //redo
+[19:45:43] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[19:46:52] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[19:47:12] [Server thread/INFO]: creisipapu issued server command: //set air
+[19:48:19] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:00:47] [Server thread/INFO]: creisipapu issued server command: /tick unfreeze
+[20:00:47] [Server thread/INFO]: [creisipapu: The game runs normally]
+[20:01:58] [Server thread/INFO]: creisipapu issued server command: //copy
+[20:02:05] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:02:07] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:02:15] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:02:16] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:02:21] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:02:24] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:02:28] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:02:31] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:02:33] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:02:41] [Server thread/INFO]: creisipapu issued server command: //redo
+[20:02:45] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:02:49] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:02:51] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:02:54] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:02:57] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:03:01] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:03:05] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:03:06] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:03:08] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:03:10] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:03:10] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:03:11] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:03:12] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:03:18] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:03:19] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:03:24] [Server thread/INFO]: creisipapu issued server command: //redo
+[20:03:25] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:03:30] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:03:33] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:03:41] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:05:11] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:05:27] [Server thread/INFO]: creisipapu issued server command: //set air
+[20:05:58] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:06:40] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:06:47] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:08:27] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:08:29] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:08:41] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:08:43] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:08:48] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:08:53] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:09:15] [Server thread/INFO]: creisipapu issued server command: /gamemode survival
+[20:09:20] [Server thread/INFO]: creisipapu issued server command: /gamemode creative
+[20:09:24] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:09:54] [Server thread/INFO]: Dannistar has made the advancement [Stone Age]
+[20:10:42] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:10:58] [Server thread/INFO]: creisipapu issued server command: //set black_wool
+[20:11:55] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:11:58] [Server thread/INFO]: creisipapu issued server command: /time set day
+[20:19:42] [Server thread/INFO]: creisipapu issued server command: //copy
+[20:22:25] [Server thread/INFO]: Dannistar lost connection: Disconnected
+[20:22:25] [Server thread/INFO]: Dannistar left the game
+[20:22:49] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:22:55] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:23:01] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:23:05] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:23:07] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:23:12] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:23:17] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:23:20] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:23:21] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:23:24] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:23:26] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:23:31] [Server thread/INFO]: creisipapu issued server command: //redo
+[20:23:33] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:23:36] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:23:42] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:23:45] [Server thread/INFO]: creisipapu issued server command: //undo
+[20:23:53] [Server thread/INFO]: creisipapu issued server command: //paste
+[20:25:33] [Server thread/INFO]: Stopping the server
+[20:25:33] [Server thread/INFO]: Stopping server
+[20:25:33] [Server thread/INFO]: [Images] Disabling Images v2.5.9
+[20:25:33] [Server thread/INFO]: [ntdLuckyBlock] Disabling ntdLuckyBlock v2.8.33
+[20:25:33] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+74-d7452bf
+[20:25:33] [Server thread/INFO]: [BlueArcade] Disabling BlueArcade v1.6.1
+[20:25:33] [Server thread/INFO]:   ____  _               _                      _
+[20:25:33] [Server thread/INFO]:  | __ )| |_   _  ___   / \   _ __ ___ __ _  __| | ___
+[20:25:33] [Server thread/INFO]:  |  _ \| | | | |/ _ \ / _ \ | '__/ __/ _` |/ _` |/ _ \
+[20:25:33] [Server thread/INFO]:  | |_) | | |_| |  __// ___ \| | | (_| (_| | (_| |  __/
+[20:25:33] [Server thread/INFO]:  |____/|_|\____|\___/_/   \_|_|  \___\____|\____|\___|
+[20:25:33] [Server thread/INFO]: 
+[20:25:33] [Server thread/INFO]: V. 1.6.1 | Plugin disabled successfully | blueva.net
+[20:25:33] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[20:25:33] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[20:25:33] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.38
+[20:25:33] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:25:33] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:25:33] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:25:33] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.12.2
+[20:25:33] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-beta-01+cb9fd58
+[20:25:33] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:25:33] [Server thread/INFO]: Saving players
+[20:25:33] [Server thread/INFO]: creisipapu lost connection: Server closed
+[20:25:33] [Server thread/INFO]: creisipapu left the game
+[20:25:33] [Server thread/INFO]: Saving worlds
+[20:25:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:25:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:25:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:25:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:25:39] [Server thread/INFO]: [ChunkHolderManager] Saved 1028 block chunks, 17 entity chunks, 0 poi chunks in world 'world' in 6.18s
+[20:25:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:25:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:25:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:25:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:25:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:25:40] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[20:25:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:25:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:25:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:25:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:25:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:25:40] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[20:25:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:25:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:25:40] [Server thread/INFO]: Flushing Chunk IO
+[20:25:40] [Server thread/INFO]: Closing Thread Pool
+[20:25:40] [Server thread/INFO]: Closing Server

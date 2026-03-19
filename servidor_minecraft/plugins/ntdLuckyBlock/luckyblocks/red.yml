@@ -1,0 +1,83 @@
+texture: 29942dd1338abeae8b8274a41ae1dcdf2b7be449f28d6b650ec06e491e70f570
+name: '&4Red LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ENTITY : MINECART : 1'
+  - 'ITEM : RESPAWN_ANCHOR : 8 : 0'
+  - 'ITEM : RABBIT_FOOT : 27 : 0'
+  '1':
+  - 'ITEM : NETHERITE_HELMET : 1 : 0'
+  - 'ENTITY : BREEZE : 2'
+  - 'ITEM : MUSIC_DISC_5 : 1 : 0'
+  - 'ENTITY : PIGLIN : 4'
+  '2':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+  - 'ITEM : YELLOW_CONCRETE_POWDER : 16 : 0'
+  '3':
+  - 'ITEM : DAYLIGHT_DETECTOR : 8 : 0'
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : NETHER_WART : 64 : 0'
+  '4':
+  - 'ENTITY : ENDER_DRAGON : 3'
+  - 'SPECIAL : PIG : 9'
+  '5':
+  - 'LUCKY_BLOCK_ITEM : CYAN : 4'
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : LIME_CONCRETE : 64 : 0'
+  '6':
+  - 'ENTITY : LLAMA_SPIT : 4'
+  '7':
+  - 'ITEM : END_PORTAL_FRAME : 64 : 0'
+  '8':
+  - 'ITEM : DEAD_HORN_CORAL_BLOCK : 32 : 0'
+  '9':
+  - 'ENTITY : DOLPHIN : 2'
+  - 'ENTITY : BEE : 1'
+  - 'ITEM : PEONY : 64 : 0'
+  '10':
+  - 'ITEM : NETHERITE_LEGGINGS : 1 : 0'
+  - 'ENTITY : MINECART_FURNACE : 1'
+  '11':
+  - 'ENTITY : DROWNED : 4'
+  - 'ITEM : LIGHTNING_ROD : 32 : 0'
+  - 'ENTITY : TRADER_LLAMA : 1'
+  '12':
+  - 'ITEM : FLOWER_BANNER_PATTERN : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : CYAN : 2'
+  '13':
+  - 'ITEM : WAXED_WEATHERED_COPPER : 32 : 0'
+  - 'ITEM : CRIMSON_HYPHAE : 64 : 0'
+  - 'ITEM : DISC_FRAGMENT_5 : 42 : 0'
+  '14':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 3'
+  - 'ITEM : STONE_SWORD : 1 : 0'
+  '15':
+  - 'ITEM : GLOW_BERRIES : 24 : 0'
+  - 'ITEM : BREWER_POTTERY_SHERD : 37 : 0'
+  '16':
+  - 'ENTITY : MULE : 3'
+  '17':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 2'
+  '18':
+  - 'ITEM : ORANGE_STAINED_GLASS : 8 : 0'
+  '19':
+  - 'ITEM : BLADE_POTTERY_SHERD : 20 : 0'
+  - 'ITEM : SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE : 6 : 0'
+  '20':
+  - 'ITEM : REPEATER : 8 : 0'
+  - 'ITEM : ORANGE_CONCRETE_POWDER : 64 : 0'
+  - 'ITEM : DIAMOND_LEGGINGS : 1 : 0'
+  '21':
+  - 'ENTITY : COD : 1'
+  - 'ITEM : RED_BANNER : 16 : 0'
+eco: true

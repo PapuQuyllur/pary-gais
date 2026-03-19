@@ -1,0 +1,103 @@
+texture: 65fed46b39c6c34d491143b72ce728797d16f9b5aa40bbdec61667f5ff9d3d45
+name: '&bLight blue LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 2'
+  - 'ENTITY : GLOW_SQUID : 3'
+  '1':
+  - 'ITEM : COBBLED_DEEPSLATE_WALL : 64 : 0'
+  - 'ITEM : STICK : 50 : 0'
+  - 'ENTITY : ARROW : 1'
+  '2':
+  - 'ITEM : HORN_CORAL : 16 : 0'
+  '3':
+  - 'ITEM : DONKEY_SPAWN_EGG : 16 : 0'
+  - 'ENTITY : INTERACTION : 4'
+  '4':
+  - 'ITEM : BROWN_SHULKER_BOX : 1 : 0'
+  - 'ITEM : TUFF_BRICK_SLAB : 32 : 0'
+  '5':
+  - 'ENTITY : GHAST : 1'
+  - 'ENTITY : MULE : 4'
+  - 'ITEM : CHAINMAIL_BOOTS : 1 : 0'
+  '6':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 3'
+  - 'ENTITY : SQUID : 1'
+  '7':
+  - 'ENTITY : POLAR_BEAR : 2'
+  '8':
+  - 'ITEM : STONE_BRICKS : 16 : 0'
+  '9':
+  - 'LUCKY_BLOCK_ITEM : BLUE : 4'
+  - 'ENTITY : WITHER_SKELETON : 1'
+  - 'ITEM : BLAZE_ROD : 52 : 0'
+  '10':
+  - 'ENTITY : TROPICAL_FISH : 2'
+  - 'SPECIAL : LIGHTNING : 3'
+  '11':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : TRAPPED_CHEST : 32 : 0'
+  '12':
+  - 'ITEM : SPRUCE_FENCE_GATE : 8 : 0'
+  - 'ITEM : AMETHYST_SHARD : 44 : 0'
+  - 'ITEM : IRON_SWORD : 1 : 0'
+  - 'ENTITY : ALLAY : 2'
+  '13':
+  - 'ITEM : STRIPPED_SPRUCE_WOOD : 64 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  '14':
+  - 'ITEM : WAXED_COPPER_DOOR : 8 : 0'
+  - 'ENTITY : PANDA : 1'
+  - 'LUCKY_BLOCK_ITEM : GREEN : 2'
+  - 'ENTITY : IRON_GOLEM : 2'
+  '15':
+  - 'ITEM : BLUE_BED : 1 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '16':
+  - 'ITEM : BAMBOO_RAFT : 1 : 0'
+  - 'ENTITY : WITHER_SKELETON : 3'
+  '17':
+  - 'ITEM : CHISELED_TUFF_BRICKS : 8 : 0'
+  - 'ITEM : CYAN_CONCRETE_POWDER : 8 : 0'
+  '18':
+  - 'ITEM : WARPED_DOOR : 64 : 0'
+  - 'ENTITY : LLAMA : 4'
+  '19':
+  - 'ENTITY : SHULKER : 1'
+  - 'ITEM : WARPED_FENCE : 16 : 0'
+  - 'ITEM : PRISMARINE_BRICKS : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIME : 2'
+  '20':
+  - 'ITEM : STRIPPED_BIRCH_WOOD : 16 : 0'
+  - 'ITEM : VILLAGER_SPAWN_EGG : 42 : 0'
+  '21':
+  - 'ITEM : WRITTEN_BOOK : 11 : 0'
+  '22':
+  - 'ITEM : PURPLE_STAINED_GLASS : 16 : 0'
+  '23':
+  - 'ITEM : ACACIA_WOOD : 8 : 0'
+  - 'ENTITY : ZOMBIE_VILLAGER : 3'
+  - 'ITEM : BLACK_TERRACOTTA : 16 : 0'
+  - 'ITEM : GOLDEN_SHOVEL : 1 : 0'
+  '24':
+  - 'ENTITY : PIGLIN : 3'
+  '25':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'SPECIAL : PIG : 11'
+  '26':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ENTITY : ITEM_FRAME : 4'
+  '27':
+  - 'ENTITY : ARMOR_STAND : 3'
+  - 'ITEM : IRON_GOLEM_SPAWN_EGG : 59 : 0'
+  - 'ITEM : STRIPPED_OAK_WOOD : 32 : 0'
+eco: true

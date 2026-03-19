@@ -1,0 +1,121 @@
+texture: 6cfb4ebc3ba4fec04d8978a1660bb7c98e96342ff2a238ada9df2f74bf032b40
+name: '&5Purple LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : LIGHTNING : 3'
+  '1':
+  - 'ENTITY : ENDERMITE : 3'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '2':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 2'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 4'
+  '3':
+  - 'ITEM : RAISER_ARMOR_TRIM_SMITHING_TEMPLATE : 38 : 0'
+  - 'ITEM : EMERALD_ORE : 32 : 0'
+  '4':
+  - 'ENTITY : SILVERFISH : 1'
+  - 'ITEM : DEBUG_STICK : 1 : 0'
+  '5':
+  - 'ITEM : WARPED_SIGN : 16 : 0'
+  - 'ITEM : JIGSAW : 64 : 0'
+  - 'ENTITY : PIG : 4'
+  '6':
+  - 'ITEM : GRAY_GLAZED_TERRACOTTA : 8 : 0'
+  - 'ITEM : SMOOTH_QUARTZ_SLAB : 16 : 0'
+  - 'ITEM : SPRUCE_PLANKS : 8 : 0'
+  '7':
+  - 'ITEM : RED_BED : 1 : 0'
+  - 'ENTITY : LLAMA_SPIT : 4'
+  - 'SPECIAL : PIG : 4'
+  '8':
+  - 'ITEM : MUSIC_DISC_OTHERSIDE : 1 : 0'
+  - 'ITEM : BAMBOO_TRAPDOOR : 32 : 0'
+  '9':
+  - 'ITEM : INFESTED_MOSSY_STONE_BRICKS : 16 : 0'
+  - 'ENTITY : STRIDER : 4'
+  '10':
+  - 'ITEM : BLACK_CONCRETE : 32 : 0'
+  - 'ITEM : WAXED_EXPOSED_CUT_COPPER : 16 : 0'
+  - 'ITEM : BLUE_ICE : 32 : 0'
+  '11':
+  - 'ENTITY : SQUID : 4'
+  '12':
+  - 'ITEM : ALLIUM : 8 : 0'
+  - 'ENTITY : ARMOR_STAND : 1'
+  - 'ENTITY : DROWNED : 4'
+  '13':
+  - 'ITEM : MANGROVE_LEAVES : 32 : 0'
+  - 'ITEM : MOSSY_COBBLESTONE_WALL : 8 : 0'
+  - 'ENTITY : STRAY : 1'
+  '14':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 4'
+  '15':
+  - 'ITEM : LADDER : 16 : 0'
+  - 'ENTITY : RABBIT : 4'
+  - 'ITEM : TURTLE_HELMET : 1 : 0'
+  - 'ITEM : SUSPICIOUS_SAND : 64 : 0'
+  '16':
+  - 'ENTITY : ARMOR_STAND : 1'
+  '17':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : YELLOW_SHULKER_BOX : 1 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : CHERRY_FENCE : 16 : 0'
+  '18':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ENTITY : DONKEY : 1'
+  '19':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 4'
+  - 'ITEM : RAW_COPPER : 2 : 0'
+  '20':
+  - 'ITEM : RED_CARPET : 16 : 0'
+  - 'ITEM : WAXED_OXIDIZED_CUT_COPPER : 8 : 0'
+  '21':
+  - 'ITEM : LIME_DYE : 14 : 0'
+  - 'ITEM : BAMBOO_CHEST_RAFT : 1 : 0'
+  '22':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 2'
+  - 'ITEM : WARPED_PLANKS : 8 : 0'
+  - 'ITEM : DEEPSLATE : 16 : 0'
+  '23':
+  - 'ENTITY : MINECART_COMMAND : 1'
+  - 'ITEM : CHORUS_FRUIT : 19 : 0'
+  - 'SPECIAL : PIG : 9'
+  - 'ENTITY : TRADER_LLAMA : 3'
+  '24':
+  - 'LUCKY_BLOCK_ITEM : YELLOW : 2'
+  '25':
+  - 'LUCKY_BLOCK_ITEM : PURPLE : 1'
+  '26':
+  - 'ITEM : ACACIA_SAPLING : 8 : 0'
+  '27':
+  - 'ENTITY : GLOW_ITEM_FRAME : 2'
+  - 'ITEM : LAVA_BUCKET : 1 : 0'
+  '28':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 2'
+  '29':
+  - 'ENTITY : ENDER_DRAGON : 4'
+  - 'ENTITY : STRAY : 2'
+  '30':
+  - 'ITEM : CHERRY_BOAT : 1 : 0'
+  - 'ENTITY : WOLF : 2'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : PILLAGER_SPAWN_EGG : 39 : 0'
+  '31':
+  - 'ENTITY : EXPERIENCE_ORB : 2'
+  - 'ENTITY : CAMEL : 1'
+  '32':
+  - 'ITEM : DIAMOND_CHESTPLATE : 1 : 0'
+  - 'ITEM : BIRCH_DOOR : 64 : 0'
+  - 'ENTITY : MINECART_HOPPER : 3'
+  - 'ENTITY : OCELOT : 2'
+eco: true

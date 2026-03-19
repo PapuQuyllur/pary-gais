@@ -1,0 +1,153 @@
+texture: 11a367164bc6852c8f078811de7baacaefd6964960ebff1fa504c7b4b1298a52
+name: '&dPink LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ENTITY : WARDEN : 4'
+  - 'ENTITY : BLAZE : 1'
+  - 'ENTITY : SMALL_FIREBALL : 4'
+  '1':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 3'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ENTITY : POLAR_BEAR : 1'
+  '2':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'LUCKY_BLOCK_ITEM : TINTED : 3'
+  '3':
+  - 'ITEM : BEETROOT_SEEDS : 20 : 0'
+  - 'ITEM : EXPOSED_COPPER_GRATE : 16 : 0'
+  '4':
+  - 'ENTITY : PIG : 2'
+  '5':
+  - 'ITEM : WAXED_COPPER_BLOCK : 16 : 0'
+  - 'ENTITY : SNOWBALL : 4'
+  - 'ENTITY : SILVERFISH : 1'
+  '6':
+  - 'LUCKY_BLOCK_ITEM : LIME : 2'
+  - 'ITEM : PINK_TERRACOTTA : 32 : 0'
+  '7':
+  - 'ENTITY : SHEEP : 3'
+  - 'ENTITY : CHEST_BOAT : 2'
+  - 'ITEM : EXPOSED_CUT_COPPER : 16 : 0'
+  '8':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_GRAY : 1'
+  - 'ITEM : BEE_SPAWN_EGG : 41 : 0'
+  - 'ITEM : NETHERITE_UPGRADE_SMITHING_TEMPLATE : 54 : 0'
+  '9':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : STRIPPED_MANGROVE_LOG : 32 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '10':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 3'
+  - 'ENTITY : MINECART_MOB_SPAWNER : 4'
+  '11':
+  - 'ITEM : POLISHED_BLACKSTONE_BRICKS : 8 : 0'
+  - 'ENTITY : MULE : 4'
+  - 'ENTITY : SKELETON_HORSE : 3'
+  '12':
+  - 'ITEM : BAMBOO_SIGN : 16 : 0'
+  - 'ENTITY : FROG : 2'
+  - 'ITEM : TRADER_LLAMA_SPAWN_EGG : 32 : 0'
+  - 'ITEM : SMALL_DRIPLEAF : 32 : 0'
+  '13':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : TORCHFLOWER : 64 : 0'
+  '14':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : CYAN_WOOL : 32 : 0'
+  - 'SPECIAL : PIG : 4'
+  '15':
+  - 'ITEM : POLISHED_BLACKSTONE_BRICK_SLAB : 8 : 0'
+  - 'SPECIAL : PIG : 23'
+  '16':
+  - 'ITEM : BLUE_DYE : 6 : 0'
+  - 'ENTITY : BLOCK_DISPLAY : 2'
+  '17':
+  - 'ITEM : BONE : 1 : 0'
+  - 'ITEM : ANDESITE_WALL : 32 : 0'
+  - 'ENTITY : GLOW_SQUID : 4'
+  '18':
+  - 'ENTITY : ALLAY : 4'
+  '19':
+  - 'SPECIAL : PIG : 4'
+  - 'ITEM : MANGROVE_FENCE : 8 : 0'
+  '20':
+  - 'ITEM : HANGING_ROOTS : 8 : 0'
+  - 'ENTITY : TROPICAL_FISH : 1'
+  - 'ITEM : ORANGE_CONCRETE_POWDER : 32 : 0'
+  '21':
+  - 'ITEM : MAGENTA_STAINED_GLASS : 8 : 0'
+  - 'ENTITY : SNOWMAN : 1'
+  - 'ITEM : BRICK : 51 : 0'
+  '22':
+  - 'ITEM : GLASS_BOTTLE : 49 : 0'
+  '23':
+  - 'ITEM : VINE : 8 : 0'
+  - 'ENTITY : MINECART_CHEST : 3'
+  - 'ENTITY : MUSHROOM_COW : 4'
+  '24':
+  - 'ENTITY : PIG : 3'
+  - 'ENTITY : ZOMBIE_HORSE : 3'
+  - 'ITEM : CROSSBOW : 1 : 0'
+  '25':
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 4'
+  - 'ITEM : JUNGLE_BUTTON : 32 : 0'
+  - 'ENTITY : HORSE : 2'
+  '26':
+  - 'ITEM : RED_SHULKER_BOX : 1 : 0'
+  - 'ITEM : WOODEN_HOE : 1 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 3'
+  '27':
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 3'
+  - 'ITEM : DARK_OAK_SIGN : 16 : 0'
+  - 'ITEM : BLUE_WOOL : 8 : 0'
+  '28':
+  - 'ENTITY : VEX : 3'
+  - 'LUCKY_BLOCK_ITEM : RANDOM : 3'
+  - 'ITEM : LIGHT_BLUE_STAINED_GLASS_PANE : 32 : 0'
+  '29':
+  - 'ENTITY : MULE : 3'
+  - 'ENTITY : PARROT : 2'
+  - 'ITEM : MUSHROOM_STEW : 1 : 0'
+  '30':
+  - 'ITEM : INFESTED_COBBLESTONE : 32 : 0'
+  - 'ENTITY : MINECART_FURNACE : 1'
+  '31':
+  - 'ITEM : GRANITE_WALL : 16 : 0'
+  - 'SPECIAL : PIG : 4'
+  '32':
+  - 'ITEM : HANGING_ROOTS : 64 : 0'
+  - 'SPECIAL : PIG : 4'
+  - 'ITEM : HEARTBREAK_POTTERY_SHERD : 17 : 0'
+  '33':
+  - 'LUCKY_BLOCK_ITEM : GREEN : 1'
+  - 'ITEM : INFESTED_DEEPSLATE : 16 : 0'
+  - 'ITEM : GLASS : 16 : 0'
+  - 'ITEM : DIAMOND : 38 : 0'
+  '34':
+  - 'ITEM : MUSIC_DISC_WAIT : 1 : 0'
+  - 'ITEM : CHISELED_TUFF_BRICKS : 32 : 0'
+  '35':
+  - 'ITEM : WARPED_ROOTS : 32 : 0'
+  - 'ITEM : FILLED_MAP : 6 : 0'
+  - 'ITEM : BLACK_CONCRETE : 32 : 0'
+  '36':
+  - 'ITEM : TNT_MINECART : 1 : 0'
+  - 'ITEM : BLACK_BANNER : 16 : 0'
+  '37':
+  - 'ITEM : SMOOTH_QUARTZ : 8 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '38':
+  - 'ITEM : PACKED_ICE : 8 : 0'
+  - 'ENTITY : OCELOT : 3'
+eco: true

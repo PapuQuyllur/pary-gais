@@ -1,0 +1,94 @@
+texture: d019fe633a45fc3d353f9a2f09fd88e721de31c2bc969ae0aeeadf57c1be0bcc
+name: '&7Light gray LuckyBlock'
+lore:
+- '&7Place me :D'
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : PIGLIN_HEAD : 32 : 0'
+  - 'ENTITY : ZOMBIE_HORSE : 2'
+  - 'ENTITY : DROWNED : 4'
+  '1':
+  - 'ITEM : MINER_POTTERY_SHERD : 9 : 0'
+  '2':
+  - 'ITEM : GRINDSTONE : 64 : 0'
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : WEATHERED_CUT_COPPER : 64 : 0'
+  - 'ITEM : PACKED_MUD : 16 : 0'
+  '3':
+  - 'ITEM : STRIPPED_WARPED_HYPHAE : 8 : 0'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '4':
+  - 'ENTITY : LEASH_HITCH : 4'
+  - 'ITEM : DEAD_TUBE_CORAL_FAN : 64 : 0'
+  '5':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 3'
+  '6':
+  - 'ITEM : CAMEL_SPAWN_EGG : 51 : 0'
+  - 'ENTITY : TRADER_LLAMA : 1'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  '7':
+  - 'ENTITY : MUSHROOM_COW : 2'
+  - 'ITEM : DIAMOND_ORE : 32 : 0'
+  '8':
+  - 'ENTITY : CREEPER : 2'
+  - 'ITEM : ELYTRA : 1 : 0'
+  - 'ITEM : WEATHERED_COPPER_TRAPDOOR : 8 : 0'
+  '9':
+  - 'ITEM : LIGHT : 64 : 0'
+  - 'ENTITY : GOAT : 2'
+  '10':
+  - 'ITEM : WAXED_WEATHERED_COPPER : 8 : 0'
+  - 'ITEM : ORANGE_CARPET : 8 : 0'
+  '11':
+  - 'ITEM : TADPOLE_BUCKET : 1 : 0'
+  - 'ITEM : MANGROVE_CHEST_BOAT : 1 : 0'
+  - 'ENTITY : PILLAGER : 1'
+  '12':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 1'
+  - 'ITEM : YELLOW_DYE : 59 : 0'
+  - 'ENTITY : MINECART_CHEST : 2'
+  '13':
+  - 'LUCKY_BLOCK_ITEM : WHITE : 3'
+  - 'SPECIAL : TNT_COLUMN : 5'
+  '14':
+  - 'LUCKY_BLOCK_ITEM : WHITE : 2'
+  - 'ENTITY : LLAMA_SPIT : 1'
+  '15':
+  - 'ENTITY : FOX : 1'
+  '16':
+  - 'ITEM : LADDER : 64 : 0'
+  - 'ITEM : BROWN_BED : 1 : 0'
+  '17':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : LILAC : 16 : 0'
+  - 'ITEM : POLISHED_BLACKSTONE_BRICKS : 16 : 0'
+  '18':
+  - 'ITEM : BREAD : 34 : 0'
+  - 'ITEM : BRAIN_CORAL_FAN : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLACK : 4'
+  '19':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '20':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 2'
+  - 'ITEM : DARK_OAK_PLANKS : 8 : 0'
+  - 'ENTITY : MINECART_FURNACE : 2'
+  - 'LUCKY_BLOCK_ITEM : GRAY : 3'
+  '21':
+  - 'ITEM : LIGHT_GRAY_DYE : 18 : 0'
+  - 'ITEM : STRIPPED_CRIMSON_STEM : 32 : 0'
+  '22':
+  - 'ITEM : STRAY_SPAWN_EGG : 4 : 0'
+  - 'ENTITY : STRIDER : 4'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '23':
+  - 'ITEM : STONE_PRESSURE_PLATE : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : CYAN : 3'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 2'
+eco: true
